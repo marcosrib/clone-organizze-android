@@ -1,15 +1,16 @@
-package com.example.organizze;
+package com.example.organizze.activity;
 
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import com.example.organizze.R;
 import com.heinrichreimersoftware.materialintro.app.IntroActivity;
 import com.heinrichreimersoftware.materialintro.slide.FragmentSlide;
 
-import activity.CadastroActivity;
-import activity.LoginActivity;
+import com.example.organizze.activity.CadastroActivity;
+import com.example.organizze.activity.LoginActivity;
 
 
 public class MainActivity extends IntroActivity {
